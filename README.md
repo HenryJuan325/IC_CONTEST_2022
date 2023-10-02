@@ -1,2 +1,2 @@
-# IC_CONTEST_2022
-Job Assigment Machine
+# IC_CONTEST_2022_Job-Assigment-Machine
+
